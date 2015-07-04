@@ -14,7 +14,9 @@ STDIN | str_replace Search Replace # to STDOUT
 ```
 
 #install
+```bash
 wget https://raw.githubusercontent.com/Samer-Al-iraqi/Linux-str_replace/master/str_replace.pl -O /usr/local/str_replace && chmod a+x /usr/local/bin/str_replace
+```
 
 Notes:
 * Search and replace always case-sensitive 
