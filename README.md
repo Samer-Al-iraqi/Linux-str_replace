@@ -1,4 +1,4 @@
-# Non-Regex-Text-Search-and-Replace-for-Linux
+# Linux-str_replace
 
 This perl script will enable you to do literal search and replace in files (in place) and in STDIN
 
