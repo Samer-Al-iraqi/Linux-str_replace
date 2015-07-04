@@ -14,14 +14,18 @@ STDIN | str_replace Search Replace # to STDOUT
 ```
 
 #install
+Execute this line in your linux server
 ```bash
-wget https://raw.githubusercontent.com/Samer-Al-iraqi/Linux-str_replace/master/str_replace.pl -O /usr/local/str_replace && chmod a+x /usr/local/bin/str_replace
+wget https://raw.githubusercontent.com/Samer-Al-iraqi/Linux-str_replace/master/str_replace.pl \
+-O /usr/local/str_replace && \
+chmod a+x /usr/local/bin/str_replace
 ```
 
 Notes:
 * Search and replace always case-sensitive 
 * Always do global Search and replace
 * Don't care about lines.
+* It may work in Windows as well.
 * tested with unicode (I suprised it worked correctly!)
 
 Hope it will help. Thanks
