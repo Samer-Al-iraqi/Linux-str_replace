@@ -13,6 +13,9 @@ str_replace Search Replace File # replace in File in place
 STDIN | str_replace Search Replace # to STDOUT
 ```
 
+#install
+wget https://raw.githubusercontent.com/Samer-Al-iraqi/Linux-str_replace/master/str_replace.pl -O /usr/local/str_replace && chmod a+x /usr/local/bin/str_replace
+
 Notes:
 * Search and replace always case-sensitive 
 * Always do global Search and replace
