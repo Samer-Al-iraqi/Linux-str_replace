@@ -14,9 +14,9 @@ STDIN | str_replace Search Replace # to STDOUT
 ```
 
 Notes:
-1- Search and replace always case-sensitive 
-2- Always do global Search and replace
-3- Don't care about lines.
-4- tested with unicode (I suprised it worked correctly!)
+* Search and replace always case-sensitive 
+* Always do global Search and replace
+* Don't care about lines.
+* tested with unicode (I suprised it worked correctly!)
 
 Hope it will help. Thanks
