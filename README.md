@@ -6,7 +6,7 @@ No missing with regular expression. No more sed or awk or perl -pie. This handy 
 
 #Usage
 ```bash
-str_replace Search Replace File
+str_replace Search Replace File # replace in File in place 
 ```
 ##OR 
 ```bash
