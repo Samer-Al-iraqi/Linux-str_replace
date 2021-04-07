@@ -1,6 +1,6 @@
 # Linux-str_replace
 
-##Notes
+## Notes
 I dont' support this anymore.
 the file is loaded fully in memory before processing!
 
@@ -8,16 +8,16 @@ This perl script will enable you to do literal search and replace in files (in p
 
 No messing with regular expression anymore. No more `sed` or `awk` or `perl -pie`. This handy script written in perl will replace text exactly as you want, No matter it has the so-called special characters or not. Just like `str_replace` PHP function.
 
-#Usage
+# Usage
 ```bash
 str_replace Search Replace File # replace in File in place 
 ```
-##OR 
+## OR 
 ```bash
 STDIN | str_replace Search Replace # to STDOUT
 ```
 
-#install
+# install
 Execute this line in your linux server
 ```bash
 wget https://raw.githubusercontent.com/Samer-Al-iraqi/Linux-str_replace/master/str_replace.pl \
